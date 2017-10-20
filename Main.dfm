@@ -1,0 +1,42 @@
+object frmMain: TfrmMain
+  Left = 0
+  Top = 0
+  Caption = 'frmMain'
+  ClientHeight = 434
+  ClientWidth = 642
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object SpeedButton1: TSpeedButton
+    Left = 32
+    Top = 280
+    Width = 113
+    Height = 41
+    Caption = 'Get Profile List'
+    OnClick = SpeedButton1Click
+  end
+  object lvProfileList: TListView
+    Left = 16
+    Top = 24
+    Width = 601
+    Height = 233
+    Columns = <
+      item
+        AutoSize = True
+        Caption = 'Vartotojas'
+      end
+      item
+        AutoSize = True
+        Caption = 'SID'
+      end>
+    SmallImages = DataModule1.ilIcons
+    TabOrder = 0
+    ViewStyle = vsReport
+  end
+end

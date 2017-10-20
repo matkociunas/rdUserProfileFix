@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.835,C:\Users\mindaugasa\Documents\Embarcadero\Studio\Projects\RDUserProfileFix\Main.dfm=C:\Users\mindaugasa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.930,C:\Users\mindaugasa\Documents\GitHub\rdUserProfileFix\DataModule.dfm=C:\Users\mindaugasa\Documents\GitHub\rdUserProfileFix\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.987,=C:\Users\mindaugasa\Documents\GitHub\rdUserProfileFix\Helper_registry.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.834,C:\Users\mindaugasa\Documents\Embarcadero\Studio\Projects\RDUserProfileFix\Main.pas=C:\Users\mindaugasa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.673,=C:\Users\mindaugasa\Documents\GitHub\rdUserProfileFix\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.930,C:\Users\mindaugasa\Documents\GitHub\rdUserProfileFix\DataModule.pas=C:\Users\mindaugasa\Documents\GitHub\rdUserProfileFix\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.839,=C:\Users\mindaugasa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.337,C:\Users\mindaugasa\Documents\Embarcadero\Studio\Projects\RDUserProfileFix\RDUserProfileFix.dproj=C:\Users\mindaugasa\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

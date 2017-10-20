@@ -1,0 +1,11 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 150
+  Width = 215
+  object ilIcons: TImageList
+    Height = 18
+    Width = 18
+    Left = 24
+    Top = 16
+  end
+end

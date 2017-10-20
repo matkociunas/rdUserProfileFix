@@ -1,0 +1,18 @@
+program RDUserProfileFix;
+
+uses
+  Vcl.Forms,
+  Main in 'Main.pas' {frmMain},
+  Vcl.Themes,
+  Vcl.Styles,
+  Helper_registry in 'Helper_registry.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  TStyleManager.TrySetStyle('Windows10');
+  Application.CreateForm(TfrmMain, frmMain);
+  Application.Run;
+end.
